@@ -63,6 +63,6 @@ copyright = "©ASSAA {2020}"
 [[menu.main]]
   identifier = "post"
   name = "post"
-  title = "post"
+  title = "Post"
   url = "/post"
 
