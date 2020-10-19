@@ -1,4 +1,4 @@
-title: Post
+title: post
 
 # View.
 #   1 = List
