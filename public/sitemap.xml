@@ -3,44 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+    <loc>https://assaa.netlify.app/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+    <loc>https://assaa.netlify.app/post/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+    <loc>https://assaa.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/job/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/postdoc/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/postdoc/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2020-10-19-postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/postdoctoral-position-in-quantitative-statistical-population-genetics-bioinformatics/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-10-19T00:00:00+00:00</lastmod>
+    <loc>https://assaa.netlify.app/tags/</loc>
   </url>
   
 </urlset>
