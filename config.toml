@@ -22,7 +22,7 @@ copyright = "©ASSAA {2020}"
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/Moutain_Soul"
   github = "https://github.com/Saurav12das"
-  # email = "mailto:<your email>"
+  email = "mailto:<saurav12das@gmail.com>"
   # facebook = "https://facebook.com/<your handle>"
   # gitlab = "https://gitlab.com/<your handle>"
   # instagram = "https://instagram.com/<your handle>"
@@ -32,7 +32,7 @@ copyright = "©ASSAA {2020}"
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported: 
   #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "GitHub"]
+  iconOrder = ["Twitter", "GitHub", "Email"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
