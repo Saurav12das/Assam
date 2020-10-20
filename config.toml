@@ -2,7 +2,7 @@
 theme = "hugo-theme-codex" 
 
 # Override these settings with your own
-title = "Assamese Students & Scholars Association of America"
+title = "Saurav"
 languageCode = "en-us"
 baseURL = "https://assam.netlify.app/"
 copyright = "©ASSAA {2020}"
