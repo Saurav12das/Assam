@@ -2,22 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PhD on Saurav</title>
-    <link>/tags/phd/</link>
+    <link>https://assam.netlify.app/tags/phd/</link>
     <description>Recent content in PhD on Saurav</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>©ASSAA {2020}</copyright>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://assam.netlify.app/tags/phd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PhD Position_UK_John_Innes</title>
+      <link>https://assam.netlify.app/post/2020-10-27-phd-position-uk-john-innes/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://assam.netlify.app/post/2020-10-27-phd-position-uk-john-innes/</guid>
+      <description>yes  Title: ARORA PhD - Identifying and exploiting the novel sources of genetic resistance for root diseases of pea
+The root rot complex is the most destructive disease of pea and is now endemic across most pea growing areas of UK. It has become a significant constraint to pea production while there is a spike in demand for this crop due to consumers’ increasing preference for plant-based protein.</description>
+    </item>
+    
     <item>
       <title>PhD and Postdoc opportunities</title>
-      <link>/post/phd-and-postdoc-opportunities/</link>
+      <link>https://assam.netlify.app/post/phd-and-postdoc-opportunities/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/phd-and-postdoc-opportunities/</guid>
+      <guid>https://assam.netlify.app/post/phd-and-postdoc-opportunities/</guid>
       <description>CORTÉS LAB is hiring PhD and Postdocs
 PhD: “Transcriptional regulation of adaptation and developmental decisions in malaria parasites: from epigenetic variation to directed transcriptional responses”,
-Postdoc:“Transcriptional regulation of adaptation anddevelopmental decisions in malaria parasites: from epigenetic variation to directed transcriptional responses”
-To know more about the recruitment.Click the link: https://cortesmalarialab.wordpress.com/2020/10/12/we-are-hiring/</description>
+Postdoc:“Transcriptional regulation of adaptation and developmental decisions in malaria parasites: from epigenetic variation to directed transcriptional responses”
+To know more about the recruitment. Click the link: https://cortesmalarialab.wordpress.com/2020/10/12/we-are-hiring/</description>
     </item>
     
   </channel>
